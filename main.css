@@ -1,0 +1,26 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  margin:50px auto 0;
+  text-align: center;
+  width: 600px;
+  border: solid 10px #E0E0E0;
+  padding: 20px
+}
+
+#result{
+  background-color: #000;
+  color: #fff;
+  width: 406px;
+  margin-bottom: 5px;
+  height: 30px;
+  text-align: right;
+}
+
+input[type="button"]{
+  width: 100px;
+  height: 30px;
+}
